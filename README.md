@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matías Donato</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
+<p>I have experience working with JavaScript, TypeScript, NodeJS, Express, React, Redux, SQL, among other technologies of the same nature. I was a fundamental part of a team where i organize and work in the creation of an online market dedicated to the production and trading of NFT's. 
+I am able to code a website from the ground both at Front and in Back, including the DB. I consider myself a proactive person, creative, with good predispotion, big organization capacities and team work, good handle of the Git Flow, problem resolution, wide capacity of learning and a good level of english </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasdonato&label=Profile%20views&color=0e75b6&style=flat" alt="matiasdonato" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://pic.funnygifsbox.com/uploads/2019/05/funnygifsbox.com-2019-05-22-12-24-43-5.gif">
