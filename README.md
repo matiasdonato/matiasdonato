@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matías Donato</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-<p>I have experience working with JavaScript, TypeScript, NodeJS, Express, React, Redux, SQL, among other technologies of the same nature. I was a fundamental part of a team where i organize and work in the creation of an online market dedicated to the production and trading of NFT's. 
-I am able to code a website from the ground both at Front and in Back, including the DB. I consider myself a proactive person, creative, with good predispotion, big organization capacities and team work, good handle of the Git Flow, problem resolution, wide capacity of learning and a good level of english </p>
+<p>I have experience working with JavaScript, TypeScript, NodeJS, Express, React, Redux, and SQL, among other technologies of the same nature. I was a fundamental part of a team where I organized and worked on the creation of an online market dedicated to the production and trading of NFT's. 
+I can code a website from the ground up, Front or Back, including the database. I consider myself a proactive and creative individual with a positive attitude, strong organizational skills, a dynamic teamwork style, and strong problem-solving abilities. I also have a good handle of Git Flow, a wide capacity for learning, and a good level of english. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasdonato&label=Profile%20views&color=0e75b6&style=flat" alt="matiasdonato" /> </p>
 
