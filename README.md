@@ -146,10 +146,10 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=matiasdonato&show_icons=true&theme=dracula"/>
-  &nbsp
-  &nbsp
-  <img height="180"  align="center" src="https://streak-stats.demolab.com/?user=matiasdonato&theme=dracula"/>
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=matiasdonato&show_icons=true&theme=dracula"/>
+  <br/>
+  <br/>
+  <img width="450"  align="center" src="https://streak-stats.demolab.com/?user=matiasdonato&theme=dracula"/>
   <br/>
   <br/>
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasdonato&theme=dracula&layout=compact" />
