@@ -79,7 +79,7 @@
     <tr>
       <td>
         <a href="https://portfolio-matias-donato.vercel.app">
-          <img src="https://media.licdn.com/dms/image/C4D2DAQGClW9ZRaMM0Q/profile-treasury-image-shrink_480_480/0/1675903596267?e=1677013200&v=beta&t=QMC04oYwFIqXVySFIWZK4uMb8fUhtKH69j91XMqlZAw" width="500">
+          <img src="https://media.licdn.com/dms/image/C4D2DAQGClW9ZRaMM0Q/profile-treasury-image-shrink_480_480/0/1675903596267?e=1679526000&v=beta&t=cBG7zODP7GlQsEk63HWP4KKVzyjyYhVUx7GgVxvo2Bc" width="500">
         </a>
       </td>
     </tr>
