@@ -36,7 +36,7 @@
   <tr>
     <td align="center">
       <strong>JavaScript</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="10px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="10">
     </td>
     <td align="center">
       <strong>TypeScript</strong><br>
