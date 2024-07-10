@@ -17,17 +17,11 @@
 <div align="center">
   
     - Strong knowledge of React, Redux, and Next.js for front-end development
- 
     - Experience with Node.js, Express, and SQL for back-end development
-
     - Skilled in API development and integration
-
     - Good understanding of SQL databases, such as MySQL and PostgreSQL
- 
     - Familiar with Git and version control systems
-
     - Knowledgeable in CSS frameworks, such as Bootstrap and Tailwind
-
     - Experienced in using testing frameworks such as Jest
   <div align="center">
     <h4>Lenguages and Tools:</h4>
