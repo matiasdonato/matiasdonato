@@ -34,131 +34,132 @@
     <h4>Lenguages and Tools:</h4>
     <table>
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <strong>JavaScript</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="100">
+      <img src="https://i.imgur.com/2Uu6NYX.png" alt="JavaScript" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>TypeScript</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="100">
+      <img src="https://i.imgur.com/1HHf9jP.png" alt="TypeScript" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>React</strong><br>
-      <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React" height="100">
+      <img src="https://i.imgur.com/D41MkqP.png" alt="React" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Redux</strong><br>
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" height="100">
+      <img src="https://i.imgur.com/3dN5nK9.png" alt="Redux" height="100" width="150">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Angular</strong><br>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png?f=webp" alt="Angular" height="100">
+      <img src="https://i.imgur.com/d4otZtK.png" alt="Angular" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Node.js</strong><br>
-      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js" height="100">
+      <img src="https://i.imgur.com/PSjRtY1.png" alt="Node.js" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Express</strong><br>
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" alt="Express" height="100">
+      <img src="https://i.imgur.com/kVdB7Z2.png" alt="Express" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>AWS</strong><br>
-      <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" height="100">
+      <img src="https://i.imgur.com/2AW6MjO.png" alt="AWS" height="100" width="150">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <strong>NestJS</strong><br>
-      <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="NestJS" height="100">
+      <img src="https://i.imgur.com/6FZ2EE2.png" alt="NestJS" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Jest</strong><br>
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" height="100">
+      <img src="https://i.imgur.com/ixcJv3f.png" alt="Jest" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>GraphQL</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" height="100">
+      <img src="https://i.imgur.com/L1E7QoL.png" alt="GraphQL" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Sequelize</strong><br>
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="Sequelize" height="100">
+      <img src="https://i.imgur.com/bkC0BPU.png" alt="Sequelize" height="100" width="150">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Prisma</strong><br>
-      <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="Prisma" height="100">
+      <img src="https://i.imgur.com/WUn8zBO.png" alt="Prisma" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Mongoose</strong><br>
-      <img src="https://tsed.io/mongoose.png" alt="Mongoose" height="100">
+      <img src="https://i.imgur.com/Q8tZQSy.png" alt="Mongoose" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>MySQL</strong><br>
-      <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="100">
+      <img src="https://i.imgur.com/9ACqiv9.png" alt="MySQL" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>PostgreSQL</strong><br>
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSQL" height="100">
+      <img src="https://i.imgur.com/mv7BfLm.png" alt="PostgreSQL" height="100" width="150">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <strong>MongoDB</strong><br>
-      <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB" height="100">
+      <img src="https://i.imgur.com/cvg8P1C.png" alt="MongoDB" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>DynamoDB</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" height="100">
+      <img src="https://i.imgur.com/rUcGZVz.png" alt="DynamoDB" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>React Native</strong><br>
-      <img src="https://static-00.iconduck.com/assets.00/sdk-react-native-icon-512x490-ynyk8t4w.png" alt="React Native" height="100">
+      <img src="https://i.imgur.com/GPESwlB.png" alt="React Native" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Tailwind</strong><br>
-      <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind" height="100">
+      <img src="https://i.imgur.com/v6dZGoo.png" alt="Tailwind" height="100" width="150">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Bootstrap</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" height="100">
+      <img src="https://i.imgur.com/t6cRehP.png" alt="Bootstrap" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>SASS</strong><br>
-      <img src="https://cdn-icons-png.freepik.com/512/5968/5968358.png" alt="SASS" height="100">
+      <img src="https://i.imgur.com/xBzP3F3.png" alt="SASS" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Figma</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" height="100">
+      <img src="https://i.imgur.com/LmvIKfM.png" alt="Figma" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Git</strong><br>
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="100">
+      <img src="https://i.imgur.com/7Rk1kxj.png" alt="Git" height="100" width="150">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <strong>Github</strong><br>
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="100">
+      <img src="https://i.imgur.com/AlNS7m6.png" alt="Github" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>HTML</strong><br>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML" height="100">
+      <img src="https://i.imgur.com/Dr6z6yy.png" alt="HTML" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <strong>CSS</strong><br>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png?f=webp&w=256" alt="CSS" height="100">
+      <img src="https://i.imgur.com/R3qUMDJ.png" alt="CSS" height="100" width="150">
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <!-- Leaving the last cell empty as per your request -->
     </td>
   </tr>
 </table>
+
 </div>
 
 
