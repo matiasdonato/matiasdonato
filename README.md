@@ -36,137 +36,137 @@
   <tr>
     <td align="center">
       <strong>HTML</strong><br>
-      <img src="images/html.png" alt="HTML" height="100">
+      <img src="https://i.imgur.com/Dr6z6yy.png" alt="HTML" height="100">
     </td>
     <td align="center">
       <strong>CSS</strong><br>
-      <img src="images/css.png" alt="CSS" height="100">
+      <img src="https://i.imgur.com/R3qUMDJ.png" alt="CSS" height="100">
     </td>
     <td align="center">
       <strong>JavaScript</strong><br>
-      <img src="images/javascript.png" alt="JavaScript" height="100">
+      <img src="https://i.imgur.com/2Uu6NYX.png" alt="JavaScript" height="100">
     </td>
     <td align="center">
       <strong>Java</strong><br>
-      <img src="images/java.png" alt="Java" height="100">
+      <img src="https://i.imgur.com/jG4TVav.png" alt="Java" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>TypeScript</strong><br>
-      <img src="images/typescript.png" alt="TypeScript" height="100">
+      <img src="https://i.imgur.com/1HHf9jP.png" alt="TypeScript" height="100">
     </td>
     <td align="center">
       <strong>React</strong><br>
-      <img src="images/react.png" alt="React" height="100">
+      <img src="https://i.imgur.com/D41MkqP.png" alt="React" height="100">
     </td>
     <td align="center">
       <strong>Angular</strong><br>
-      <img src="images/angular.png" alt="Angular" height="100">
+      <img src="https://i.imgur.com/d4otZtK.png" alt="Angular" height="100">
     </td>
     <td align="center">
       <strong>Vue</strong><br>
-      <img src="images/vue.png" alt="Vue" height="100">
+      <img src="https://i.imgur.com/GD4DmVz.png" alt="Vue" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Redux</strong><br>
-      <img src="images/redux.png" alt="Redux" height="100">
+      <img src="https://i.imgur.com/3dN5nK9.png" alt="Redux" height="100">
     </td>
     <td align="center">
       <strong>React Native</strong><br>
-      <img src="images/react-native.png" alt="React Native" height="100">
+      <img src="https://i.imgur.com/GPESwlB.png" alt="React Native" height="100">
     </td>
     <td align="center">
       <strong>Next.js</strong><br>
-      <img src="images/nextjs.png" alt="Next.js" height="100">
+      <img src="https://i.imgur.com/BFFAzNv.png" alt="Next.js" height="100">
     </td>
     <td align="center">
       <strong>Node.js</strong><br>
-      <img src="images/nodejs.png" alt="Node.js" height="100">
+      <img src="https://i.imgur.com/PSjRtY1.png" alt="Node.js" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Express</strong><br>
-      <img src="images/express.png" alt="Express" height="100">
+      <img src="https://i.imgur.com/kVdB7Z2.png" alt="Express" height="100">
     </td>
     <td align="center">
       <strong>NestJS</strong><br>
-      <img src="images/nestjs.png" alt="NestJS" height="100">
+      <img src="https://i.imgur.com/6FZ2EE2.png" alt="NestJS" height="100">
     </td>
     <td align="center">
       <strong>GraphQL</strong><br>
-      <img src="images/graphql.png" alt="GraphQL" height="100">
+      <img src="https://i.imgur.com/L1E7QoL.png" alt="GraphQL" height="100">
     </td>
     <td align="center">
       <strong>PostgreSQL</strong><br>
-      <img src="images/postgresql.png" alt="PostgreSQL" height="100">
+      <img src="https://i.imgur.com/mv7BfLm.png" alt="PostgreSQL" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>MySQL</strong><br>
-      <img src="images/mysql.png" alt="MySQL" height="100">
+      <img src="https://i.imgur.com/9ACqiv9.png" alt="MySQL" height="100">
     </td>
     <td align="center">
       <strong>Sequelize</strong><br>
-      <img src="images/sequelize.png" alt="Sequelize" height="100">
+      <img src="https://i.imgur.com/bkC0BPU.png" alt="Sequelize" height="100">
     </td>
     <td align="center">
       <strong>MongoDB</strong><br>
-      <img src="images/mongodb.png" alt="MongoDB" height="100">
+      <img src="https://i.imgur.com/cvg8P1C.png" alt="MongoDB" height="100">
     </td>
     <td align="center">
       <strong>Prisma</strong><br>
-      <img src="images/prisma.png" alt="Prisma" height="100">
+      <img src="https://i.imgur.com/WUn8zBO.png" alt="Prisma" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Tailwind</strong><br>
-      <img src="images/tailwind.png" alt="Tailwind" height="100">
+      <img src="https://i.imgur.com/v6dZGoo.png" alt="Tailwind" height="100">
     </td>
     <td align="center">
       <strong>Bootstrap</strong><br>
-      <img src="images/bootstrap.png" alt="Bootstrap" height="100">
+      <img src="https://i.imgur.com/t6cRehP.png" alt="Bootstrap" height="100">
     </td>
     <td align="center">
       <strong>LESS & SASS</strong><br>
-      <img src="images/less-sass.png" alt="LESS & SASS" height="100">
+      <img src="https://i.imgur.com/xBzP3F3.png" alt="LESS & SASS" height="100">
     </td>
     <td align="center">
       <strong>Git</strong><br>
-      <img src="images/git.png" alt="Git" height="100">
+      <img src="https://i.imgur.com/7Rk1kxj.png" alt="Git" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Github</strong><br>
-      <img src="images/github.png" alt="Github" height="100">
+      <img src="https://i.imgur.com/AlNS7m6.png" alt="Github" height="100">
     </td>
     <td align="center">
       <strong>Figma</strong><br>
-      <img src="images/figma.png" alt="Figma" height="100">
+      <img src="https://i.imgur.com/LmvIKfM.png" alt="Figma" height="100">
     </td>
     <td align="center">
       <strong>Balsamiq</strong><br>
-      <img src="images/balsamiq.png" alt="Balsamiq" height="100">
+      <img src="https://i.imgur.com/L5RpYl1.png" alt="Balsamiq" height="100">
     </td>
     <td align="center">
       <strong>Photoshop</strong><br>
-      <img src="images/photoshop.png" alt="Photoshop" height="100">
+      <img src="https://i.imgur.com/eq6nBwU.png" alt="Photoshop" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Scrum</strong><br>
-      <img src="images/scrum.png" alt="Scrum" height="100">
+      <img src="https://i.imgur.com/9YXAzqt.png" alt="Scrum" height="100">
     </td>
     <td align="center">
       <strong>SEO</strong><br>
-      <img src="images/seo.png" alt="SEO" height="100">
+      <img src="https://i.imgur.com/rh1YOFm.png" alt="SEO" height="100">
     </td>
     <td></td>
     <td></td>
