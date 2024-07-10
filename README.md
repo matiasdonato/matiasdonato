@@ -118,7 +118,7 @@
     </td>
     <td align="center">
       <strong>Tailwind</strong><br>
-      <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind" height="100">
+      <img src="https://play-lh.googleusercontent.com/YN4OEsoWsU1QrZFcwWlI8uuGhDKc4RAlP56FFyL03VFegD5tWjZ5cNWHocC_QRE_TvA" alt="Tailwind" height="100">
     </td>
   </tr>
   <tr>
