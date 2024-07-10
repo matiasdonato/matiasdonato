@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=matiasdonato&label=Profile%20views&color=0e75b6&style=flat" alt="matiasdonato" />
   </div>
   <h4>My Portfolio: https://portfolio-matias-donato.vercel.app</h4>
-  <h4>Linkedin: https://www.linkedin.com/in/mat%C3%ADas-donato-227488224</h4>
+  <h4>Linkedin: https://www.linkedin.com/in/matias-donato-291579316</h4>
 </div>
 
 &nbsp;
