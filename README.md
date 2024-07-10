@@ -36,7 +36,7 @@
   <tr>
     <td align="center">
       <strong>JavaScript</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="10">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="100">
     </td>
     <td align="center">
       <strong>TypeScript</strong><br>
@@ -50,12 +50,12 @@
       <strong>Redux</strong><br>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" height="100">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>Angular</strong><br>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png?f=webp" alt="Angular" height="100">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>Node.js</strong><br>
       <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js" height="100">
@@ -68,8 +68,6 @@
       <strong>AWS</strong><br>
       <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" height="100">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>NestJS</strong><br>
       <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="NestJS" height="100">
@@ -78,6 +76,8 @@
       <strong>Jest</strong><br>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" height="100">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>GraphQL</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" height="100">
@@ -86,8 +86,6 @@
       <strong>Sequelize</strong><br>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="Sequelize" height="100">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>Prisma</strong><br>
       <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="Prisma" height="100">
@@ -100,12 +98,12 @@
       <strong>MySQL</strong><br>
       <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="100">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>PostgreSQL</strong><br>
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSQL" height="100">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>MongoDB</strong><br>
       <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB" height="100">
@@ -140,12 +138,12 @@
       <strong>Git</strong><br>
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="100">
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>Github</strong><br>
       <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="100">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>HTML</strong><br>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML" height="100">
@@ -155,7 +153,13 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png?f=webp&w=256" alt="CSS" height="100">
     </td>
     <td align="center">
-      <!-- Leaving the last cell empty as per your request -->
+      <!-- Leaving the last three cells empty as per your request -->
+    </td>
+    <td align="center">
+      <!-- Leaving the last three cells empty as per your request -->
+    </td>
+    <td align="center">
+      <!-- Leaving the last three cells empty as per your request -->
     </td>
   </tr>
 </table>
