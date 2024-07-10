@@ -31,7 +31,7 @@
     - Experienced with testing frameworks such as Jest
 </div>
   <div align="center">
-    <h4>Lenguages and Tools:</h4>
+    <h4>Some of my lenguages and tools:</h4>
    <table>
   <tr>
     <td align="center">
