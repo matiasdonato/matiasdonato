@@ -42,8 +42,6 @@
           <strong>Java</strong><br>
           <img src="https://i.imgur.com/jG4TVav.png" alt="Java" height="100">
         </td>
-      </tr>
-      <tr>
         <td align="center">
           <strong>TypeScript</strong><br>
           <img src="https://i.imgur.com/1HHf9jP.png" alt="TypeScript" height="100">
@@ -52,6 +50,8 @@
           <strong>React</strong><br>
           <img src="https://i.imgur.com/D41MkqP.png" alt="React" height="100">
         </td>
+      </tr>
+      <tr>
         <td align="center">
           <strong>Angular</strong><br>
           <img src="https://i.imgur.com/d4otZtK.png" alt="Angular" height="100">
@@ -83,6 +83,10 @@
         <td align="center">
           <strong>Express</strong><br>
           <img src="https://i.imgur.com/kVdB7Z2.png" alt="Express" height="100">
+        </td>
+        <td align="center">
+          <strong>AWS</strong><br>
+          <img src="https://i.imgur.com/2Uu6NYX.png" alt="JavaScript" height="100">
         </td>
         <td align="center">
           <strong>NestJS</strong><br>
