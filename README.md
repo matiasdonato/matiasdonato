@@ -89,10 +89,9 @@
     <td align="center">
       <strong>Prisma</strong><br>
       <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="Prisma" height="100">
-    </td>
     <td align="center">
-      <strong>Mongoose</strong><br>
-      <img src="https://tsed.io/mongoose.png" alt="Mongoose" height="100">
+      <strong>DynamoDB</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" height="100">
     </td>
     <td align="center">
       <strong>MySQL</strong><br>
@@ -108,10 +107,12 @@
       <strong>MongoDB</strong><br>
       <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="MongoDB" height="100">
     </td>
-    <td align="center">
-      <strong>DynamoDB</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB" height="100">
     </td>
+        <td align="center">
+      <strong>Figma</strong><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" height="100">
+    </td>
+    
     <td align="center">
       <strong>React Native</strong><br>
       <img src="https://pagepro.co/blog/wp-content/uploads/2020/04/react-1024x912.png" alt="React Native" height="100">
@@ -131,27 +132,21 @@
       <img src="https://cdn-icons-png.freepik.com/512/5968/5968358.png" alt="SASS" height="100">
     </td>
     <td align="center">
-      <strong>Figma</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" height="100">
-    </td>
-    <td align="center">
       <strong>Git</strong><br>
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="100">
-    </td>
-    <td align="center">
-      <strong>Github</strong><br>
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="100">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>HTML</strong><br>
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML" height="100">
     </td>
     <td align="center">
       <strong>CSS</strong><br>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png?f=webp&w=256" alt="CSS" height="100">
     </td>
+    <td align="center">
+      <strong>HTML</strong><br>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML" height="100">
+    </td>
+  </tr>
+  <tr>
+    
+    
     <td align="center">
       <!-- Leaving the last three cells empty as per your request -->
     </td>
