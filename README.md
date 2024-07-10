@@ -40,25 +40,25 @@
     </td>
     <td align="center">
       <strong>TypeScript</strong><br>
-      <img src="https://i.imgur.com/1HHf9jP.png" alt="TypeScript" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="100">
     </td>
     <td align="center">
       <strong>React</strong><br>
-      <img src="https://i.imgur.com/D41MkqP.png" alt="React" height="100">
+      <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React" height="100">
     </td>
     <td align="center">
       <strong>Redux</strong><br>
-      <img src="https://i.imgur.com/3dN5nK9.png" alt="Redux" height="100">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" height="100">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Angular</strong><br>
-      <img src="https://i.imgur.com/d4otZtK.png" alt="Angular" height="100">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png?f=webp" alt="Angular" height="100">
     </td>
     <td align="center">
       <strong>Node.js</strong><br>
-      <img src="https://i.imgur.com/PSjRtY1.png" alt="Node.js" height="100">
+      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js" height="100">
     </td>
     <td align="center">
       <strong>Express</strong><br>
