@@ -16,19 +16,19 @@
 <h2 align="center">Skills</h2>
 <div>
   
-    - Strong knowledge of React, Redux, and Next.js for front-end development
+    - Strong knowledge of React, Angular and Redux for front-end development
     
-    - Experience with Node.js, Express, and SQL for back-end development
+    - Highly skilled in back-end development using Node.js, Express, and both SQL and NoSQL databases
+
+    - Considerable experience with Amazon Web Services (AWS) cloud services
     
-    - Skilled in API development and integration
+    - Proficient in API development and integration
     
-    - Good understanding of SQL databases, such as MySQL and PostgreSQL
+    - Proficient in Git and version control systems
     
-    - Familiar with Git and version control systems
+    - Skilled in CSS frameworks, such as Bootstrap and Tailwind
     
-    - Knowledgeable in CSS frameworks, such as Bootstrap and Tailwind
-    
-    - Experienced in using testing frameworks such as Jest
+    - Experienced with testing frameworks such as Jest
 </div>
   <div align="center">
     <h4>Lenguages and Tools:</h4>
