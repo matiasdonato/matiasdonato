@@ -114,7 +114,7 @@
     </td>
     <td align="center">
       <strong>React Native</strong><br>
-      <img src="https://static-00.iconduck.com/assets.00/sdk-react-native-icon-512x490-ynyk8t4w.png" alt="React Native" height="100">
+      <img src="https://pagepro.co/blog/wp-content/uploads/2020/04/react-1024x912.png" alt="React Native" height="100">
     </td>
     <td align="center">
       <strong>Tailwind</strong><br>
