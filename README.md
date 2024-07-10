@@ -34,7 +34,7 @@
     <h4>Lenguages and Tools:</h4>
     <table>
       <tr>
-        <td><img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" alt="html" width="70" height="70"/></td>
+        <td> Typescript <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" alt="html" width="70" height="70"/></td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="70" height="70"/></td>
         <td><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="js" width="70" height="70"/></td>
         <td><img src="https://portfolio-matias-donato.vercel.app/static/media/TS.af108db04a54d784da9b.png" alt="ts" width="70" height="70"/></td>
