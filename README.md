@@ -1,6 +1,6 @@
 <h1 align="center">Matías Donato - Full Stack Developer</h1>
 
-<p align="center">I am a passionate Full Stack Developer who is driven by the thrill of creating innovative and user-friendly web applications. With my strong knowledge of HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Express, and various databases, I bring a unique blend of technical expertise and creative thinking to each project I work on.</p>
+<p align="center">I am a passionate Full Stack Developer who is driven by the thrill of creating innovative and user-friendly web applications. With my strong knowledge of TypeScript, React, Node.js, Express, AWS, Sequelize, MySQL, MongoDB and some others technologies, I bring a unique blend of technical expertise and creative thinking to each project I work on.</p>
 
 
 
