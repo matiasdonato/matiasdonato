@@ -112,7 +112,6 @@
       <strong>Figma</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" height="100">
     </td>
-    
     <td align="center">
       <strong>React Native</strong><br>
       <img src="https://pagepro.co/blog/wp-content/uploads/2020/04/react-1024x912.png" alt="React Native" height="100">
@@ -142,19 +141,6 @@
     <td align="center">
       <strong>HTML</strong><br>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="HTML" height="100">
-    </td>
-  </tr>
-  <tr>
-    
-    
-    <td align="center">
-      <!-- Leaving the last three cells empty as per your request -->
-    </td>
-    <td align="center">
-      <!-- Leaving the last three cells empty as per your request -->
-    </td>
-    <td align="center">
-      <!-- Leaving the last three cells empty as per your request -->
     </td>
   </tr>
 </table>
