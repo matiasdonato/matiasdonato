@@ -23,6 +23,7 @@
     - Familiar with Git and version control systems
     - Knowledgeable in CSS frameworks, such as Bootstrap and Tailwind
     - Experienced in using testing frameworks such as Jest
+</div>
   <div align="center">
     <h4>Lenguages and Tools:</h4>
     <table>
