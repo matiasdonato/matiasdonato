@@ -33,37 +33,145 @@
   <div align="center">
     <h4>Lenguages and Tools:</h4>
     <table>
-      <tr>
-        <td display="flex" flexdirection="column"> Typescript <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" alt="html" width="70" height="70"/></td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="70" height="70"/></td>
-        <td><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="js" width="70" height="70"/></td>
-        <td><img src="https://portfolio-matias-donato.vercel.app/static/media/TS.af108db04a54d784da9b.png" alt="ts" width="70" height="70"/></td>
-        <td><img src="https://portfolio-matias-donato.vercel.app/static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png" alt="react" width="70" height="70"/></td>
-        <td><img src="https://portfolio-matias-donato.vercel.app/static/media/redux.b3b939c66aecf7d53967.png" alt="redux" width="70" height="70"/></td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" width="70" height="70"/></td>
-        <td><img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="next" width="70" height="70"/></td>
-        <td><img src="https://img.icons8.com/ios7/600/000000/express-js.png" alt="express" width="70" height="70"/></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-256/sequelize-2-1175003.png" alt="sql" width="70" height="70"/></td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="postgresql" width="70" height="70"/></td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="mysql" width="70" height="70"/></td>
-      </tr>
-      <tr>
-        <td><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" alt="prisma" width="70" height="70"/></td>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="70" height="70"/></td>
-        <td><img src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="70" height="70"/></td>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="70" height="70"/></td>
-        <td><img src="https://jestjs.io/img/jest.png" alt="jest" width="70" height="70"/></td>
-        <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="70" height="70"/></td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="70" height="70"/></td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="70" height="70"/></td>
-        <td><img src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" alt="balsamiq" width="70" height="70"/></td>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="70" height="70"/></td>
-      </tr>
-     </table>
+  <tr>
+    <td align="center">
+      <strong>HTML</strong><br>
+      <img src="images/html.png" alt="HTML" height="100">
+    </td>
+    <td align="center">
+      <strong>CSS</strong><br>
+      <img src="images/css.png" alt="CSS" height="100">
+    </td>
+    <td align="center">
+      <strong>JavaScript</strong><br>
+      <img src="images/javascript.png" alt="JavaScript" height="100">
+    </td>
+    <td align="center">
+      <strong>Java</strong><br>
+      <img src="images/java.png" alt="Java" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>TypeScript</strong><br>
+      <img src="images/typescript.png" alt="TypeScript" height="100">
+    </td>
+    <td align="center">
+      <strong>React</strong><br>
+      <img src="images/react.png" alt="React" height="100">
+    </td>
+    <td align="center">
+      <strong>Angular</strong><br>
+      <img src="images/angular.png" alt="Angular" height="100">
+    </td>
+    <td align="center">
+      <strong>Vue</strong><br>
+      <img src="images/vue.png" alt="Vue" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Redux</strong><br>
+      <img src="images/redux.png" alt="Redux" height="100">
+    </td>
+    <td align="center">
+      <strong>React Native</strong><br>
+      <img src="images/react-native.png" alt="React Native" height="100">
+    </td>
+    <td align="center">
+      <strong>Next.js</strong><br>
+      <img src="images/nextjs.png" alt="Next.js" height="100">
+    </td>
+    <td align="center">
+      <strong>Node.js</strong><br>
+      <img src="images/nodejs.png" alt="Node.js" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Express</strong><br>
+      <img src="images/express.png" alt="Express" height="100">
+    </td>
+    <td align="center">
+      <strong>NestJS</strong><br>
+      <img src="images/nestjs.png" alt="NestJS" height="100">
+    </td>
+    <td align="center">
+      <strong>GraphQL</strong><br>
+      <img src="images/graphql.png" alt="GraphQL" height="100">
+    </td>
+    <td align="center">
+      <strong>PostgreSQL</strong><br>
+      <img src="images/postgresql.png" alt="PostgreSQL" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>MySQL</strong><br>
+      <img src="images/mysql.png" alt="MySQL" height="100">
+    </td>
+    <td align="center">
+      <strong>Sequelize</strong><br>
+      <img src="images/sequelize.png" alt="Sequelize" height="100">
+    </td>
+    <td align="center">
+      <strong>MongoDB</strong><br>
+      <img src="images/mongodb.png" alt="MongoDB" height="100">
+    </td>
+    <td align="center">
+      <strong>Prisma</strong><br>
+      <img src="images/prisma.png" alt="Prisma" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Tailwind</strong><br>
+      <img src="images/tailwind.png" alt="Tailwind" height="100">
+    </td>
+    <td align="center">
+      <strong>Bootstrap</strong><br>
+      <img src="images/bootstrap.png" alt="Bootstrap" height="100">
+    </td>
+    <td align="center">
+      <strong>LESS & SASS</strong><br>
+      <img src="images/less-sass.png" alt="LESS & SASS" height="100">
+    </td>
+    <td align="center">
+      <strong>Git</strong><br>
+      <img src="images/git.png" alt="Git" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Github</strong><br>
+      <img src="images/github.png" alt="Github" height="100">
+    </td>
+    <td align="center">
+      <strong>Figma</strong><br>
+      <img src="images/figma.png" alt="Figma" height="100">
+    </td>
+    <td align="center">
+      <strong>Balsamiq</strong><br>
+      <img src="images/balsamiq.png" alt="Balsamiq" height="100">
+    </td>
+    <td align="center">
+      <strong>Photoshop</strong><br>
+      <img src="images/photoshop.png" alt="Photoshop" height="100">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Scrum</strong><br>
+      <img src="images/scrum.png" alt="Scrum" height="100">
+    </td>
+    <td align="center">
+      <strong>SEO</strong><br>
+      <img src="images/seo.png" alt="SEO" height="100">
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 </div>
 
 
