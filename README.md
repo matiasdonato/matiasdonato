@@ -79,8 +79,8 @@
   </tr>
   <tr>
     <td align="center">
-      <strong>GraphQL</strong><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" height="100">
+      <strong>TypeORM</strong><br>
+      <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" height="100">
     </td>
     <td align="center">
       <strong>Sequelize</strong><br>
@@ -113,8 +113,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" alt="Figma" height="100">
     </td>
     <td align="center">
-      <strong>React Native</strong><br>
-      <img src="https://pagepro.co/blog/wp-content/uploads/2020/04/react-1024x912.png" alt="React Native" height="100">
+      <strong>Next.js</strong><br>
+      <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="Next.js" height="100">
     </td>
     <td align="center">
       <strong>Tailwind</strong><br>
